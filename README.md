@@ -8,12 +8,16 @@
   <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="200">
 </p>
 
+# 
+
 <h3 align="center">
   Education :mortar_board:
 </h3>
 <p align="center">
   Bachelor of Arts in Computational Linguistics
 </p>
+
+# 
 
 <h3 align="center">
   Latest Projects
