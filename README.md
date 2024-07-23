@@ -1,18 +1,24 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/m4cit/m4cit/main/Earl.gif" width="300"/>
-</div>
+<h2 align="center">
+  About me
+</h2>
 
+<h3 align="center"> Profession :computer:
+</h3>
+<p align="center">
+  <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="200">
+</p>
 
-## About me
-### Profession :computer:
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' align="left" height="200">
-<br clear="left"/>
+<h3 align="center">
+  Education :mortar_board:
+</h3>
+<p align="center">
+  Bachelor of Arts in Computational Linguistics
+</p>
 
-### Education :mortar_board:
-Bachelor of Arts in Computational Linguistics
+<h3 align="center">
+  Latest Projects
+</h3>
 
-### Latest Projects
-|                    |                    |
-|:-------------------|:-------------------|
-|<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="center" height="50">[ Deep-Learning Quran Recognition](https://github.com/m4cit/Deep-Learning-Quran-Recognition)|<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Crazy%20Spongebob.png' align="center" height="40">[ MaChAmp-TWG-Data-Augmentation](https://github.com/m4cit/MaChAmp-TWG-Data-Augmentation)|
-|<img src='https://raw.githubusercontent.com/m4cit/slangID3_DL/main/misc/gallery/slangID3_dl_icon.png' align="center" height="50">[ slangID3 DL](https://github.com/m4cit/slangID3_DL)|<img src='https://raw.githubusercontent.com/m4cit/slangID3/main/misc/gallery/slangID3_icon.png' align="center" height="50">[ slangID3](https://github.com/m4cit/slangID3)|
+|                    |                    |                    |                    |
+|:-------------------|:-------------------|:-------------------|:-------------------|
+|<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="center" height="50">[ Deep-Learning Quran Recognition](https://github.com/m4cit/Deep-Learning-Quran-Recognition)|<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Crazy%20Spongebob.png' align="center" height="40">[ MaChAmp-TWG-Data-Augmentation](https://github.com/m4cit/MaChAmp-TWG-Data-Augmentation)|<img src='https://raw.githubusercontent.com/m4cit/slangID3_DL/main/misc/gallery/slangID3_dl_icon.png' align="center" height="50">[ slangID3 DL](https://github.com/m4cit/slangID3_DL)|<img src='https://raw.githubusercontent.com/m4cit/slangID3/main/misc/gallery/slangID3_icon.png' align="center" height="50">[ slangID3](https://github.com/m4cit/slangID3)
