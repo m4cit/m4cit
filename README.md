@@ -1,6 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/macit-uslu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## About me
 ### Profession
-<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="left" height="200">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png?token=GHSAT0AAAAAACVDR6FDCSLAD5LJRT2HMGQSZVACTO' align="left" height="200">
+<br clear="left"/>
 
 ### Education
 Bachelor of Arts in Computational Linguistics
