@@ -1,4 +1,11 @@
-## Hi there 👋
+## About me
+### Profession
+<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="left" height="200">
+
+### Education
+Bachelor of Arts in Computational Linguistics
+
+
 
 <!--
 **m4cit/m4cit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
