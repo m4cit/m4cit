@@ -4,7 +4,7 @@
 
 <h3 align="left"> Profession :computer:
 </h3>
-<p align="center">
+<p align="left">
   <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="220">
 </p>
 
