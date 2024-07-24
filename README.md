@@ -1,12 +1,6 @@
 ## About me
 ### Interests
-Python 🐍
-
-PC Hardware 🖥️
-
-Gaming 🎮
-
-Machine- and Deep-Learning 🤖
+Python 🐍 PC Hardware 🖥️ Gaming 🎮 Machine- and Deep-Learning 🤖
 
 
 ### Profession 💻
