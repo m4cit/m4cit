@@ -13,7 +13,7 @@
 <h3 align="left">
   Education :mortar_board:
 </h3>
-<p align="center">
+<p align="left">
   Bachelor of Arts in Computational Linguistics
 </p>
 
