@@ -1,7 +1,5 @@
 ### About me
-- PC Hardware Enthusiast
-- Casual Gamer
-- Programmer
+PC Hardware Enthusiast with a passion for programming and experimenting in the field of Machine-Learning.
 
 ##  
 
