@@ -1,27 +1,19 @@
-<h3 align="left">
-  About me
-</h3>
+### About me
+*PC Hardware Enthusiast
+*Casual Gamer
+*Programmer
 
-<h3 align="left"> Profession :computer:
-</h3>
-<p align="left">
-  <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="220">
-</p>
+##  
 
-# 
+### Profession 💻
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="220">
 
-<h3 align="left">
-  Education :mortar_board:
-</h3>
-<p align="left">
-  Bachelor of Arts in Computational Linguistics
-</p>
+### Education 🎓
+Bachelor of Arts in Computational Linguistics
 
-# 
+## 
 
-<h3 align="left">
-  Latest Projects
-</h3>
+### Latest Projects
 
 |                    |                    |
 |:-------------------|:-------------------|
