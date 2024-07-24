@@ -1,5 +1,8 @@
 ### About me
-PC hardware enthusiast and programmer with interest in Machine-Learning.
+-Python Programming 🐍
+-PC Hardware Enthusiast 🖥️
+-Gaming 🎮
+-Machine- and Deep-Learning 🤖
 
 ##  
 
