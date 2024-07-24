@@ -1,8 +1,8 @@
-<h3 align="center">
+<h3 align="left">
   About me
 </h3>
 
-<h3 align="center"> Profession :computer:
+<h3 align="left"> Profession :computer:
 </h3>
 <p align="center">
   <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="220">
@@ -10,7 +10,7 @@
 
 # 
 
-<h3 align="center">
+<h3 align="left">
   Education :mortar_board:
 </h3>
 <p align="center">
@@ -19,7 +19,7 @@
 
 # 
 
-<h3 align="center">
+<h3 align="left">
   Latest Projects
 </h3>
 
