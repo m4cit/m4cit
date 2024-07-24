@@ -1,7 +1,8 @@
-### About me
-* Python Programming 🐍
+## About me
+### Interests
+* Python 🐍
 
-* PC Hardware Enthusiast 🖥️
+* PC Hardware 🖥️
 
 * Gaming 🎮
 
