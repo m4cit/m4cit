@@ -10,11 +10,11 @@ Machine- and Deep-Learning 🤖
 
 
 ### Profession 💻
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' width="220">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="220">
 
 
 ### Education 🎓
-Bachelor of Arts in Computational Linguistics
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/educated_bum.png' width="220">
 
 ### Latest Projects
  
