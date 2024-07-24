@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
   About me
-</h2>
+</h3>
 
 <h3 align="center"> Profession :computer:
 </h3>
