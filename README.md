@@ -1,7 +1,7 @@
 ### About me
-* PC Hardware Enthusiast
-* Casual Gamer
-* Programmer
+- PC Hardware Enthusiast
+- Casual Gamer
+- Programmer
 
 ##  
 
