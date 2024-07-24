@@ -1,5 +1,5 @@
 ### About me
-PC Hardware Enthusiast with a passion for programming and experimenting in the field of Machine-Learning.
+PC hardware enthusiast with a passion for programming and experimenting in the field of Machine-Learning.
 
 ##  
 
