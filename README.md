@@ -1,8 +1,11 @@
 ### About me
--Python Programming 🐍
--PC Hardware Enthusiast 🖥️
--Gaming 🎮
--Machine- and Deep-Learning 🤖
+* Python Programming 🐍
+
+* PC Hardware Enthusiast 🖥️
+
+* Gaming 🎮
+
+* Machine- and Deep-Learning 🤖
 
 ##  
 
