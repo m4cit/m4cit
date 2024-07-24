@@ -10,7 +10,7 @@ Machine- and Deep-Learning 🤖
 
 
 ### Profession 💻
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' height="220">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/Homer%20begging.png' width="220">
 
 
 ### Education 🎓
