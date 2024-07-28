@@ -11,7 +11,7 @@ Machine- and Deep-Learning 🤖  |  PC Hardware 🖥️  |  Gaming 🎮
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/educated_bum.png' width="280">
 
 ### Latest Projects
- 
+
 |        Icon        |        Title       |
 |:------------------:|:-------------------|
 |<img src='https://raw.githubusercontent.com/m4cit/slangID3_DL/main/misc/gallery/slangID3_dl_icon.png' align="center" width="80">|[slangID3 DL](https://github.com/m4cit/slangID3_DL)
