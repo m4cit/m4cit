@@ -3,11 +3,11 @@
 Machine- and Deep-Learning 🤖  |  PC Hardware 🖥️  |  Gaming 🎮
 
 
-### Profession 💻
+### Profession
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="280">
 
 
-### Education 🎓
+### Education
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/educated_bum.png' width="280">
 
 ### Latest Projects
