@@ -8,7 +8,7 @@ Machine- and Deep-Learning 🤖  |  PC Hardware 🖥️  |  Gaming 🎮
 
 
 ### Education
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/educated_bum.png' width="280">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="280">
 
 ### Latest Projects
 
