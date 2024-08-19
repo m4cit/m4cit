@@ -15,7 +15,6 @@
 - Turkish
 - English
 
-
 ### Programming / Scripting Languages
 - Python
 - R
