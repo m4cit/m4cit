@@ -1,14 +1,14 @@
 ## About me
 ### Interests
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="280">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="290">
 
 
 ### Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="280">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="290">
 
 
 ### Education
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="280">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="290">
 
 ### Latest Projects
 
