@@ -1,6 +1,6 @@
 ## About me
 ### Interests
-Machine- and Deep-Learning 🤖  |  PC Hardware 🖥️  |  Gaming 🎮
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="280">
 
 
 ### Profession
