@@ -1,14 +1,27 @@
 ## About me
 ### Interests
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="310">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="320">
 
 
 ### Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="310">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="320">
 
 
 ### Education
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="310">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="320">
+
+### Natural Languages
+- German
+- Turkish
+- English
+
+### Programming / Scripting Languages
+- Python
+- R
+- Java
+- Prolog
+- C# (in progress)
+- PowerShell
 
 ### Latest Projects
 
