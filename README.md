@@ -1,18 +1,18 @@
-### Interests
+## Interests
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="320">
 
-### Profession
+## Profession
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="320">
 
-### Education
+## Education
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="320">
 
-### Natural Languages
+## Natural Languages
 - German
 - Turkish
 - English
 
-### Programming / Scripting Languages
+## Programming / Scripting Languages
 - Python
 - R
 - Java
@@ -20,7 +20,7 @@
 - C# (in progress)
 - PowerShell
 
-### Latest Projects
+## Latest Projects
 
 | Icon |  Title |  Tags  |
 |:----:|:-------|:-------|
