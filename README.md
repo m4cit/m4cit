@@ -15,10 +15,10 @@
 ## Programming / Scripting Languages
 - Python
 - R
-- Java
-- Prolog
 - C# (in progress)
+- Java
 - PowerShell
+- Prolog
 
 ## Latest Projects
 
