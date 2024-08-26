@@ -1,11 +1,11 @@
 ## Interests
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="320">
 
-## Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="320">
-
 ## Education
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.png' width="320">
+
+## Profession
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="320">
 
 ## Natural Languages
 - German
