@@ -15,7 +15,7 @@
 ## Programming / Scripting Languages
 - Python
 - R
-- C# (in progress)
+- [C#](https://freecodecamp.org/certification/TJM/foundational-c-sharp-with-microsoft)
 - Java
 - PowerShell
 - Prolog
