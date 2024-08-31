@@ -7,7 +7,7 @@
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.gif' width="320">
 
 ## Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.gif' width="320">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/waiting.gif' width="320">
 
 ## Natural Languages
 - German
