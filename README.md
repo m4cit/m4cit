@@ -6,7 +6,7 @@ Computational Linguistics B.A.
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/education.gif' width="320">
 
 ## Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/bum.png' width="320">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/wha.gif' width="320">
 
 ## Natural Languages
 - German
