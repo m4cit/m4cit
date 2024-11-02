@@ -1,6 +1,3 @@
-## Interests
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/interests.png' width="320">
-
 ## Education
 **Bachelor of Arts in Computational Linguistics**
 
@@ -10,17 +7,17 @@
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/waiting.gif' width="320">
 
 ## Natural Languages
+- English
 - German
 - Turkish
-- English
 
 ## Programming / Scripting Languages
-- Python
-- R
 - C# [(foundational certification)](https://freecodecamp.org/certification/m4cit/foundational-c-sharp-with-microsoft)
 - Java
 - PowerShell
 - Prolog
+- Python
+- R
 
 ## Latest Projects
 
