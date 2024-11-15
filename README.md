@@ -1,7 +1,7 @@
 ## Education
 **Bachelor of Arts in Computational Linguistics**
 
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/showoff.gif' width="320">
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/stop writing.gif' width="320">
 
 ## Profession
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/waiting.gif' width="320">
