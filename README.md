@@ -4,7 +4,9 @@
 <img src='https://raw.githubusercontent.com/m4cit/m4cit/main/stop writing.gif' width="320">
 
 ## Profession
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/waiting.gif' width="320">
+**Junior IT Support @ home24 SE**
+
+<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/IT_support.gif' width="320">
 
 ## Natural Languages
 - English
