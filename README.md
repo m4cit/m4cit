@@ -1,8 +1,3 @@
-## Profession
-**Junior IT Support @ home24 SE**
-
-<img src='https://raw.githubusercontent.com/m4cit/m4cit/main/IT_support.gif' width="320">
-
 ## Education
 **Bachelor of Arts in Computational Linguistics**
 
